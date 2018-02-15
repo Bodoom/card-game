@@ -1,0 +1,19 @@
+
+body {
+	background-image: url("twisted.jpg"); 
+	text-align: center;
+	background-size: 1500px;
+}
+
+.card {
+	width: 120px;
+	margin: 0 2px;
+}
+
+h1 {
+	color: white;
+}
+
+.found{
+	display: inline-block;
+}
